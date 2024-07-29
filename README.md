@@ -1,8 +1,5 @@
-## Hi there 👋 
+## Hi there 👋 김다연
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=%20&fontSize=90%22"/>
-
-김다연
-
 :skull_and_crossbones: :yellow_heart:
 <!--
 **ihatebasil/iHATEbasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
