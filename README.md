@@ -1,5 +1,7 @@
-## Hi there 👋 김다연
+## Hi there 👋 
+김다연
 
+:skull_and_crossbones:
 <!--
 **ihatebasil/iHATEbasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
