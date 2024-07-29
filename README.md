@@ -1,5 +1,5 @@
 ## Hi there 👋 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=김다연&fontSize=90%22"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text= &fontSize=90%22"/>
 
 김다연
 
