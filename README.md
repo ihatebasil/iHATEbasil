@@ -52,7 +52,7 @@
 <p align="center" style="background-color: #FFF3CD; padding: 10px; border-radius: 10px;">
 <!--   <a href="https://twitter.com/ihatebasil"><img src="https://img.shields.io/twitter/follow/ihatebasil?label=Follow&style=social&color=yellow" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/yourname/"><img src="https://img.shields.io/badge/LinkedIn-Connect-yellow?style=social&logo=linkedin&logoColor=yellow" alt="LinkedIn"></a> -->
-  <a href="https://www.instagram.com/noe_yad/"><img src="https://img.shields.io/badge/Instagram-Follow-yellow?style=social&logo=instagram&logoColor=yellow" alt="Instagram"></a>
+  <a href="https://www.instagram.com/noe.yad/"><img src="https://img.shields.io/badge/Instagram-Follow-yellow?style=social&logo=instagram&logoColor=yellow" alt="Instagram"></a>
 </p>
 
 ---
