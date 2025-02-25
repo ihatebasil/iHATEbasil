@@ -16,7 +16,7 @@
 
 - 🌟 **Currently working on**: 
 - 🌻 **Learning**: <img src="https://img.shields.io/badge/-Flutter-FFD700?style=flat&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/-Spring Boot-FFD700?style=flat&logo=spring&logoColor=white">
-- ✨ **I'm interested in...**:          Silly but fun things!
+- ✨ **I'm interested in...**:         
 - 🤝 **Reach me at**: [island@mju.ac.kr](mailto:yourname@example.com)
 
 ---
